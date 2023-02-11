@@ -1,0 +1,12 @@
+numpy
+matplotlib
+scipy
+pandas
+notebook
+biosppy
+seaborn
+sklearn
+statsmodels
+pingouin
+scikit-learn
+statannotations
